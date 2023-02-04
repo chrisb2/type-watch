@@ -6,7 +6,7 @@ from machine import Pin
 ADC_READS = 3
 KEY_DELAY_MS = 100
 LED_BLINK_MS = 200
-THRESHOLD_MV = 180
+THRESHOLD_MV = 170
 PIEZO_1_PIN = Pin(2, Pin.IN)
 PIEZO_2_PIN = Pin(3, Pin.IN)
 LED_PIN = Pin(21, Pin.OUT, Pin.PULL_DOWN)
