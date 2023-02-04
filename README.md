@@ -1,2 +1,6 @@
 # type-watch
-Trains you not to type harshly to prevent OOS
+This project uses two piezo sensors under a keyboard to sense harsh typing and flashes an LED when a strong keystroke is detected. This feedback allows the user to train themselves to type gently.
+
+The piezo sensors are [Sparkfun Piezo Elements](https://www.sparkfun.com/products/10293).
+
+![circuit diagram](type-watch-circuit.png)
