@@ -6,3 +6,5 @@ The program can use any MCU which supports Micropython and could be easily conve
 The piezo sensors are [Sparkfun Piezo Elements](https://www.sparkfun.com/products/10293).
 
 ![circuit diagram](type-watch-circuit.png)
+
+![circuit prototype](type-watch-prototype.jpg)
