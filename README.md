@@ -7,8 +7,10 @@ The piezo sensors are [Sparkfun Piezo Elements](https://www.sparkfun.com/product
 
 ![circuit diagram](images/type-watch-circuit.png)
 
-![circuit prototype](images/type-watch-prototype.jpg)
+![circuit prototype](images/type-watch-1.jpg)
+
+![circuit prototype](images/type-watch-2.jpg)
 
 The piezo sensors are place under each foot of the keyboard.
 
-![pizeo sensor](images/piezo-sensor.jpg)
+![pizeo sensor](images/type-watch-3.jpg)
